@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Datta</h1>
-<h3 align="center">A passionate mern stack developer from Bangladesh</h3>
+<h3 align="center">A <span style="color: blue">passionate</span> mern stack developer from Bangladesh</h3>
 
 <img align="center" alt="coding" src="Frame 3.svg">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/aaaamiitt" target="blank"><img src="https://img.shields.io/twitter/follow/aaaamiitt?logo=twitter&style=for-the-badge" alt="aaaamiitt" /></a> </p>
 
-- 🔭 I’m currently completing my bachelor **at United International University**
+- 🔭 I’m currently completing my bachelor **at <span style="red">United International University</span>**
 
 - 🌱 I’m currently learning **React, NextJs**
 
