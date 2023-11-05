@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Datta</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
-<img align="center" alt="coding" width="300" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+<img align="center" alt="coding" width="300" src="user.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdattashuvo119&label=Profile%20views&color=0e75b6&style=flat" alt="amitdattashuvo119" /> </p>
 
