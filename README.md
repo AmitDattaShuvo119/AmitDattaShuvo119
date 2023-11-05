@@ -1,5 +1,5 @@
 <h1 align="center">Hello There! I'm Amit Datta</h1>
-<h3 align="center">A Front-end developer from Bangladesh who loves to code and talk about code</h3>
+<h3 align="center">A front-end developer from Bangladesh who loves coding and discussing code</h3>
 
 <img align="center" alt="coding" src="Frame 3.svg">
 
