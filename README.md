@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Amit Datta</h1>
-<h3 align="center">A <span style="color: blue">passionate</span> mern stack developer from Bangladesh</h3>
+<h1 align="center">Hello There! I'm Amit Datta</h1>
+<h3 align="center">A passionate Front-end developer from Bangladesh</h3>
 
 <img align="center" alt="coding" src="Frame 3.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdattashuvo119&label=Profile%20views&color=0e75b6&style=flat" alt="amitdattashuvo119" /> </p>
 
-
-
 <p align="left"> <a href="https://twitter.com/aaaamiitt" target="blank"><img src="https://img.shields.io/twitter/follow/aaaamiitt?logo=twitter&style=for-the-badge" alt="aaaamiitt" /></a> </p>
 
-- 🔭 I’m currently completing my bachelor **at <span style="red">United International University</span>**
-
+- 🔭 I’m currently completing my bachelor's degree in Computer Science (CSE) **at United International University**
 - 🌱 I’m currently learning **React, NextJs**
 
 - 👯 I’m looking to collaborate on **Mern stack projects**
@@ -21,7 +18,7 @@
 
 - 📫 How to reach me **shuvodatta1128@gmail.com**
 
-- ⚡ Fun fact **I'm chill minded**
+- ⚡ Fun fact **I'm a semi-nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
